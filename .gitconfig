@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Remy Martin	
+	email = rmarka02@gmail.com
+
+[push]
+  default = current                   
+  autoSetupRemote = true
+
+[alias]
+  ap = add --patch                    # add to/stage commits chunk by chunk
+  pp = !git pull --rebase && git push # push and rebase
+  co = checkout                       # checkout
+  d = diff                            # diff unstaged changes
+  s = status                          # status
