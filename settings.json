@@ -1,0 +1,16 @@
+{
+  "editor.fontFamily": "'FiraCode Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Default Light+",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "chat.viewSessions.orientation": "stacked",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+  },
+  "terminal.integrated.scrollback": 10000,
+}
